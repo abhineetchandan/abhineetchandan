@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhineetchandan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning react native, java, c#, html, c 
-- I am a student from India aged 14.
+- 🌱 I’m currently learning react native with JS, java, c#, html, c, flutter with Dart
+- I am a student from India aged 15.
 - 📫 How to reach me : feel free to mail on abhineetsharmathe@gmail.com
 
 <!---
